@@ -12,8 +12,13 @@ You need to install these dependencies :
 * mpd - music player daemon
 * libnfc
 * pcsc
+* mongodb
 
-You need a contactless reader, and some contactless tags. I can suggest you the one I aquired :
+Then just do as usual:
+
+	npm install
+
+Note you would likely require a contactless reader, and some contactless tags. I can suggest you the ones I've got:
 
 * [Mifare chips 13.56Mhz ISO14443A](http://www.aliexpress.com/snapshot/237740055.html)
 * [ACR122U 13.56 MHz RFID Card Reader](http://www.aliexpress.com/snapshot/237740054.html)

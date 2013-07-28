@@ -18,5 +18,11 @@
   },
   "engines": {
     "node": "~0.8.0"
+  },
+  "keywords": ["tag", "rfid", "music", "disc", "cd", "discography"],
+  "license" : "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/jokesterfr/rfidea.git"
   }
 }

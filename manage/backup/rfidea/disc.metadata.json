@@ -1,0 +1,1 @@
+{ "indexes" : [ { "v" : 1, "key" : { "_id" : 1 }, "ns" : "rfidea.disc", "name" : "_id_" }, { "v" : 1, "key" : { "uid" : 1 }, "unique" : true, "ns" : "rfidea.disc", "name" : "uid_1" } ] }

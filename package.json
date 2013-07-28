@@ -1,0 +1,22 @@
+{
+  "name": "rfidea",
+  "description": "Your contactless discography",
+  "version": "0.0.2",
+  "author": {
+    "name": "Clément Désiles",
+    "email": "main@jokester.fr"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "nfc": "0.0.4",
+    "mongoskin": "0.6.0",
+    "mpd": "1.0.x",
+    "commander": "2.0.0"
+  },
+  "engines": {
+    "node": "~0.8.0"
+  }
+}

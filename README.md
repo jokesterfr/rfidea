@@ -47,7 +47,7 @@ cd libnfc
 dpkg-buildpackage -b -us -uc
 sudo dpkg -i ../libnfc*.deb
 # you can then try `nfc-list`
-
+~~~
 
 ## Licence
 
